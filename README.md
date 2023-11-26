@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/license-Apache-green" alt="License"></a>
 <img src="https://img.shields.io/badge/version-1.0-blue" alt="Version"></a>
-</p>
 <a href="https://doi.org/10.5281/zenodo.10208020"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10208020.svg" alt="DOI"></a>
 </p>
 
